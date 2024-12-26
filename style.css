@@ -297,7 +297,6 @@ margin-top: 5px;
     transform: scale(1.05);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    transition-duration: 420ms;
     background-color: #ecebdeba;
     overflow: hidden; 
     text-align: center;
@@ -311,7 +310,6 @@ margin-top: 5px;
 
 .maps-card:hover {
     box-shadow: 0 1px 20px rgb(105, 45, 255);
-    transform: scale(1.20);
 }
 
 .maps-card p {
